@@ -25,7 +25,7 @@ Follow these steps to set up and run the Password Cracking Tool on your local ma
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/nakshatragupta07/password-cracking-tool.git
+   git clone https://github.com/yourusername/password-cracking-tool.git
    cd password-cracking-tool
    ```
 
